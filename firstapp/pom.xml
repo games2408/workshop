@@ -4,7 +4,7 @@
 	<groupId>com.edgey</groupId>
 	<artifactId>firstapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+        <name>TESTING</name>
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus-snapshots</id>
