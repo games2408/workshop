@@ -10,7 +10,7 @@ public class Driver {
 
 	public static void main(String[] args) {
 		
-		ArrayList<String> list = new ArrayList<String>();
+		ArrayList<String> list = new ArrayList<>();
 		Logger logger = Logger.getLogger(Driver.class.getName());
 		
 		list.add("HELLO");

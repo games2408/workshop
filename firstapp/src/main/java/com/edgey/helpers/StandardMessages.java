@@ -1,7 +1,6 @@
 package com.edgey.helpers;
 
 public class StandardMessages {
-	private StandardMessages(){}
 	
 	private static String[] messageList = 
 		{
@@ -12,6 +11,8 @@ public class StandardMessages {
 				"My",
 				"Honey"
 		};
+	
+	private StandardMessages(){}
 	
 	public static String getMessage(int index){
 		return messageList[index];
